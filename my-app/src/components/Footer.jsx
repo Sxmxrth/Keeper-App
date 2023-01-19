@@ -1,7 +1,7 @@
 import React from "react"
 
 function Footer() {
-    return <footer>2023 copyright</footer>
+    return (<footer><p>2023 copyright</p></footer>)
 }
 
 export default Footer
